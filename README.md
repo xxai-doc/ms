@@ -4,7 +4,7 @@
 
 Kod bahagian hadapan tapak web adalah sumber terbuka, dialu-alukan untuk membantu mengoptimumkan terjemahan
 
-* [kod bahagian hadapan](https://github.com/xxai-art/web)
+* [Kod Bahagian Hadapan](https://github.com/xxai-art/web)
 * [Pek bahasa untuk tapak secara keseluruhan](https://github.com/xxai-art/web/tree/main/i18n)
 * [Pek bahasa untuk modul log masuk](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Dokumentasi Berbilang Bahasa Laman Web](https://github.com/xxai-doc)
